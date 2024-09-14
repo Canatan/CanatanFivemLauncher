@@ -1,5 +1,22 @@
-###1. Proje Klasörünü Yeniden Yapılandırın
-Döngüsel sembolik bağlantılar genellikle yapısal bir sorun olduğunda ortaya çıkar. Yeni bir proje klasörü oluşturup yalnızca gerekli dosyaları taşıyıp bağımlılıkları yeniden yükleyelim.
+# Canatan GTA5 FiveM Launcher
 
-Adım 1: Yeni Proje Klasörü Oluşturun
-Yeni bir proje dizini oluşturun ve mevcut projenizdeki yalnızca kaynak dosyaları (örneğin index.html, main.js, renderer.js, style.css, ve package.json) taşıyın. node_modules ve package-lock.json gibi bağımlılık dosyalarını taşımayın.
+Bu proje, GTA5 FiveM Roleplay sunucusuna bağlanmayı kolaylaştıran bir masaüstü launcher uygulamasıdır. Bu uygulama, Electron.js ve Node.js kullanılarak geliştirilmiştir ve sunucuya bağlanmak, sunucu durumunu ve oyuncu sayısını göstermek gibi özellikler sunar.
+
+## Proje Kurulumu
+
+Bu projeyi sıfırdan kurmak için aşağıdaki adımları izleyin.
+
+### Gereksinimler
+
+- **Node.js**: Uygulamanın çalışması için [Node.js](https://nodejs.org) kurulu olmalıdır.
+- **Git** (opsiyonel): Projeyi Git üzerinden klonlamak için [Git](https://git-scm.com) kurulmalıdır.
+
+### Adım 1: Projeyi Klonlayın veya İndirin
+
+Projeyi Git üzerinden klonlayabilir veya zip dosyasını indirip açabilirsiniz.
+
+#### Git ile Klonlama
+
+```bash
+git clone https://github.com/username/my-fivem-launcher.git
+cd my-fivem-launcher
