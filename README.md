@@ -1,4 +1,4 @@
-1. Proje Klasörünü Yeniden Yapılandırın
+###1. Proje Klasörünü Yeniden Yapılandırın
 Döngüsel sembolik bağlantılar genellikle yapısal bir sorun olduğunda ortaya çıkar. Yeni bir proje klasörü oluşturup yalnızca gerekli dosyaları taşıyıp bağımlılıkları yeniden yükleyelim.
 
 Adım 1: Yeni Proje Klasörü Oluşturun
