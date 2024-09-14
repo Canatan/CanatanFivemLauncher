@@ -18,5 +18,5 @@ Projeyi Git üzerinden klonlayabilir veya zip dosyasını indirip açabilirsiniz
 #### Git ile Klonlama
 
 ```bash
-git clone https://github.com/username/my-fivem-launcher.git
-cd my-fivem-launcher
+git clone https://github.com/Canatan/CanatanFivemLauncher.git
+cd CanatanFivemLauncher
