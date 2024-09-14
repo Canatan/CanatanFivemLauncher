@@ -34,7 +34,7 @@ npm install
 Bu komut, proje için gerekli tüm Node.js bağımlılıklarını yükler.
 
 #### Adım 3: Sunucu Bilgilerini Düzenleyin
--**renderer.js** dosyasındaki sunucu IP adresini ve port numarasını düzenleyin.
+- **renderer.js** dosyasındaki sunucu IP adresini ve port numarasını düzenleyin.
 - 1. Sunucu IP Adresi ve Portunu Girin:
 **renderer.js** dosyasında aşağıdaki satırları düzenleyin:
 ```javascript
