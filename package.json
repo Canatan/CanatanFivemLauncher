@@ -1,0 +1,25 @@
+{
+  "name": "my-fivem-launcher",
+  "version": "1.0.0",
+  "description": "GTA5 FiveM Roleplay Launcher",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^22.0.0",
+    "electron-builder": "^25.0.5"
+  },
+  "dependencies": {
+    "axios": "^1.0.0",
+    "my-fivem-launcher": "file:"
+  },
+  "build": {
+    "appId": "com.canatan.launcher",
+    "win": {
+      "target": "nsis",
+      "icon": "path_to_icon.ico"
+    }
+  },
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  }
+}
