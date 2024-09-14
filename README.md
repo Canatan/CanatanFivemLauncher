@@ -20,3 +20,19 @@ Projeyi Git üzerinden klonlayabilir veya zip dosyasını indirip açabilirsiniz
 ```bash
 git clone https://github.com/Canatan/CanatanFivemLauncher.git
 cd CanatanFivemLauncher
+```
+#### Manuel Olarak İndirme
+- Proje dosyalarını ZIP olarak indirin.
+- ZIP dosyasını çıkartın ve proje klasörüne gidin.
+
+#### Adım 2: Gerekli Bağımlılıkları Yükleyin
+- Projede gerekli olan tüm bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın:
+
+```bash
+npm install
+```
+Bu komut, proje için gerekli tüm Node.js bağımlılıklarını yükler.
+
+#### Adım 3: Sunucu Bilgilerini Düzenleyin
+
+
