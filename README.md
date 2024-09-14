@@ -60,7 +60,7 @@ npx electron-packager . CanatanLauncher --platform=win32 --arch=x64 --overwrite
 ```
 Bu komut, uygulamanızı **CanatanLauncher** adında bir klasöre paketleyecektir.
 
-###Seçenek 2: **electron-builder** ile Paketleme
+### Seçenek 2: **electron-builder** ile Paketleme
 Alternatif olarak, **electron-builder** kullanarak uygulamanızı paketleyebilirsiniz. Öncelikle **electron-builder**'ı yükleyin:
 ```bash
 npm install --save-dev electron-builder
